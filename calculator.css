@@ -1,0 +1,29 @@
+.container{
+    width: 450px;
+    height: 605px;
+    background-color: aqua;
+    margin-left: 378px;
+    margin-top: 19px;
+}
+#screen
+{
+    margin-left: 92px;
+    margin-top: 35px;
+    width: 251px;
+    height: 38px;
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.btn1
+{
+    width: 60px;
+    height: 60px;
+    margin-left: 40px;
+    margin-top: 30px;
+
+
+}
